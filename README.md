@@ -2,4 +2,4 @@
 2nd semester of 2020, Machine Learning(XAI501) term project
 
 ## Thumbnail
-![Bayesian Uncertainty](./Thumbnail/Bayesian Uncertainty.png)
+<img src = './Thumbnail/Bayesian Uncertainty.png' width = '20' height = '20' />
