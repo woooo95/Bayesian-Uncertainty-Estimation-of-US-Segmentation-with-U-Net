@@ -49,7 +49,7 @@ train_sampler = SubsetRandomSampler(train_idx)
 valid_sampler = SubsetRandomSampler(valid_idx)
 #####################################################################################################################################################
 lr = 5e-4
-n_epoch = 150
+n_epoch = 100
 batch_size = 2
 
 print("Dropout Unet Experiment]")
